@@ -1,7 +1,18 @@
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+# Helm Chart
+
+This page contains HELM Charts for KubeOMatic solutions.
+
+Charts currently available:
+
+* TimeBomb - https://helmchart.kubeomatic.io/timebomb/index.yaml
+
+```bash
+$ helm repo add timebomb https://helmchart.kubeomatic.io/timebomb
+$ helm search repo  timebomb -l
+
+NAME                            CHART VERSION   APP VERSION     DESCRIPTION                                       
+timebomb/kubeomatic-timebomb    0.1.4           0.322           A Helm chart for the timebomb solution for Kube...
+
 ```
+
+For more information about KubeOMatic/TimeBomb please visit https://github.com/kubeomatic/k8s-timebomb.

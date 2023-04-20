@@ -4,7 +4,7 @@ This page contains HELM Charts for KubeOMatic solutions.
 
 Charts currently available:
 
-* TimeBomb - https://helmchart.kubeomatic.io/timebomb/index.yaml
+* TimeBomb - https://helmchart.kubeomatic.io/timebomb
 
 ```bash
 $ helm repo add timebomb https://helmchart.kubeomatic.io/timebomb

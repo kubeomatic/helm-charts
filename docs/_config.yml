@@ -7,3 +7,4 @@ plugins:
 show_downloads: false
 github:
   another_url: https://github.com/kubeomatic/k8s-timebomb
+#https://github.com/pages-themes/midnight

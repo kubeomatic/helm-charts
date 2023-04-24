@@ -1,5 +1,7 @@
-# KubeOMatic TimeBomb
+[All Charts from KubeOMatic](https://helmchart.kubeomatic.io)
+***
 
+# KubeOMatic TimeBomb
 ## HELM
 ### Repo add and list
 ```bash
@@ -11,4 +13,7 @@ timebomb/kubeomatic-timebomb    0.1.4           0.322           A Helm chart for
 
 ```
 
-For more information about KubeOMatic/TimeBomb please visit https://github.com/kubeomatic/k8s-timebomb.
+***
+For more information about KubeOMatic/TimeBomb please visit:
+* [timebomb.kubeomatic.io](https://timebomb.kubeomatic.io/)
+* [github.com/kubeomatic/k8s-timebomb](https://github.com/kubeomatic/k8s-timebomb).

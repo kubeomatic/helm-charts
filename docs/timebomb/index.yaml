@@ -3,9 +3,9 @@ entries:
   kubeomatic-timebomb:
   - apiVersion: v2
     appVersion: "0.322"
-    created: "2023-04-24T14:11:55.995956616-03:00"
+    created: "2023-04-24T14:15:02.284781108-03:00"
     description: A Helm chart for the timebomb solution for Kubernetes
-    digest: 9034bc45bcee73d267efffff2b642d621eb62ab01a1047af51e8513edfdf5e39
+    digest: 41bfffca826f6a194ed443bfdead533a1eb2f6c4af35c2840ed5dee49e4c207d
     name: kubeomatic-timebomb
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: "0.322"
-    created: "2023-04-24T14:11:55.995573837-03:00"
+    created: "2023-04-24T14:15:02.284412347-03:00"
     description: A Helm chart for the timebomb solution for Kubernetes
     digest: 979affca7bcd5d395c606d0dd5ae3f577f25efb07ad2ab24900cb74a2288d7c9
     name: kubeomatic-timebomb
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://helmchart.kubeomatic.io/timebomb/kubeomatic-timebomb-0.1.4.tgz
     version: 0.1.4
-generated: "2023-04-24T14:11:55.995119026-03:00"
+generated: "2023-04-24T14:15:02.283952454-03:00"
